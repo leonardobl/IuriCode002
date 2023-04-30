@@ -24,6 +24,6 @@ Desafio simples de design resposivo Iuri Code 002
 
 ## 🛠 Habilidades
 
-HTML, CSS, Javascript, typescript, ReactJs, Styled-components
+HTML, CSS, Javascript, Typescript, ReactJs, Styled-components
 
 
