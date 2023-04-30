@@ -11,9 +11,11 @@ Desafio simples de design resposivo Iuri Code 002
 
 ## Screenshots
 
-<img src="./public//assets/images/mobile.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" height="500" />
+<div align="center">
 
+<br />
 
-<img src="./public//assets/images/desktop.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" height="500" />
-
+ | <img src="./public//assets/images/mobile.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" height="500" /> | <img src="./public//assets/images/desktop.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" height="500" /> |
+ 
+</div>
 
