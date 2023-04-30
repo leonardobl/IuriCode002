@@ -11,5 +11,5 @@ Desafio simples de design resposivo Iuri Code 002
 
 ## Screenshots
 
-![App Screenshot](/assets/images/mobile.png)
+![App Screenshot](./public//assets/images/mobile.png)
 
